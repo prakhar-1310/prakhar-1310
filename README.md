@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakhar-1310
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prakharshahi9935@gmail.com
 - 😄 Pronouns: ...
