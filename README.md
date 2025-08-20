@@ -4,20 +4,19 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **500+ DSA Problems** on [LeetCode](https://leetcode.com/yourprofile/)
-- 🥇 Completed **ML Course @ Coding Blocks** (Mentors: Shubhum Shingal, Monu Kumar)
+- ✅ Solved **500+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
+- 🥇 Completed **ML Course @ Coding Blocks** (Mentors: Shubhum Shingal)
 - 🎯 Selected in **Super 150 Batch**
-- 🛠️ Built projects in **MERN stack, Java, and C++**
+- 🛠️ Built projects in **MERN stack, Java, Python**
 - 🌱 Actively contributing to **open-source and hackathons**
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prakhar-shahi1310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/prakhar-1310" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="mailto:prakharshahi9935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
