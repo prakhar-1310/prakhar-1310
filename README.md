@@ -21,19 +21,35 @@
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** C++, Java, Python, JavaScript  
-- **Web Development:** React, Node.js, Express.js, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Docker, Postman, VS Code  
+## 🔨 Tech Stack & Skills  
+
+### 🚀 Languages & Frameworks  
+- Java | JavaScript | Python  
+- React | Node.js | Express.js  
+
+### 🛠️ Tools & Databases  
+- Git | MongoDB | SQL  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+## 🌱 Currently Learning  
+- Advanced MERN Stack 
+- Competitive Programming (LeetCode, Codeforces)  
+
+---
+
+## 💡 I’m Looking to Collaborate On  
+- Open-source projects related to Web Development & DSA  
+- Full-stack projects with innovative ideas  
+- Competitive Programming discussions & problem-solving  
+
+
+---
+
+## 📊 GitHub Stats  
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=tokyonight)  
+
 
 ---
 
