@@ -4,7 +4,7 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **600+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
+- ✅ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
 - 🥇 Completed **ML Course @ Coding Blocks** (Mentors: Shubhum Shingal)
 - 🎯 Selected in **Super 150 Batch**
 - 🛠️ Built projects in **MERN stack, Java, Python**
