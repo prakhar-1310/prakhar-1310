@@ -180,6 +180,22 @@
 
 
 
+## 🚀 My Dev Playground
+
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
+    </td>
+    <td width="60%" align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&border=border&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
 ---
 
 ## 🌱 Currently Learning  
