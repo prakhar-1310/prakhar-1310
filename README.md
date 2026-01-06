@@ -74,14 +74,14 @@
 - 🚀 [Tic Tac Toe (Neon Themed)](https://github.com/yourusername/TicTacToe) – Futuristic design with animations  
 - 📝 [Blogging App (MERN)](https://github.com/yourusername/BlogApp) – Create, edit & share blogs  
 - 🤖 [ML Projects](https://github.com/yourusername/ML-Projects) – Machine Learning experiments and notebooks  
-- 📘 [DSA Practice](https://github.com/yourusername/DSA) – 500+ solved problems  
+- 📘 [DSA Practice](https://github.com/yourusername/DSA) – 800+ solved problems  
 
 ---
 
 ## 📬 Let’s Connect
 💡 Always open for collaboration and interesting project ideas!
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=programmerbeast2004&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prakhar-1310&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
 </p>
 
 <!-- Footer Wave -->
