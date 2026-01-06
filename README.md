@@ -79,4 +79,12 @@
 ---
 
 ## 📬 Let’s Connect
-💡 Always open for collaboration and interesting project ideas!  
+💡 Always open for collaboration and interesting project ideas!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=programmerbeast2004&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="ban.png" width="100%" />
+</p>
