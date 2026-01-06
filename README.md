@@ -4,24 +4,13 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
+- ✅ Solved **800+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
 - 🥇 Completed **ML Course @ Coding Blocks** (Mentors: Shubhum Shingal)
 - 🎯 Selected in **Super 150 Batch**
 - 🛠️ Built projects in **MERN stack, Java, Python**
 - 🌱 Actively contributing to **open-source and hackathons**
 
 ---
-
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/prakhar-shahi1310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://github.com/prakhar-1310" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-<a href="mailto:prakharshahi9935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-
 
 ## 🧰 Tech Stack
 <!-- 🧰 TECH STACK TABLE | Equal Icons Per Row | GitHub-Safe -->
@@ -130,25 +119,25 @@
     ">
       <!-- Social Row 1 -->
       <div style="margin-bottom: 10px;">
-        <a href="https://www.instagram.com/sopln_apoorv.mehrotra/" target="_blank" style="margin: 4px; display: inline-block;">
+        <a href="https://www.instagram.com//" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
-        <a href="https://discord.com/users/mr._.0._.0._." target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+        <a href="mailto:prakharshahi9935@gmail.com" target="_blank" style="margin: 4px; display: inline-block;">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </div>
       <!-- Social Row 2 (Centered) -->
       <div style="margin-bottom: 10px;">
-        <a href="https://www.linkedin.com/in/its-apoorv-/" target="_blank" style="margin: 4px; display: inline-block;">
+        <a href="https://www.linkedin.com/in/prakhar-shahi1310/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </div>
       <!-- Coding Profiles Row 3 -->
       <div style="margin-bottom: 10px;">
-        <a href="https://leetcode.com/programmer_exe/" target="_blank" style="margin: 4px; display: inline-block;">
+        <a href="https://leetcode.com/prakhar-1310/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <a href="https://codeforces.com/profile/The_Better_Coder" target="_blank" style="margin: 4px; display: inline-block;">
+        <a href="https://codeforces.com/profile/prakharCF" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
         </a>
       </div>
@@ -172,15 +161,13 @@
       <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
     <td width="60%" align="center">
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=programmer_exe&theme=github-dark&border=border&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=prakhar-1310&theme=github-dark&border=border&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
     </td>
   </tr>
 </table>
 
 ---
 
-
----
 
 ## 🌱 Currently Learning  
 - Advanced MERN Stack 
