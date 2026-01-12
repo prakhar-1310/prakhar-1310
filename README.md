@@ -187,7 +187,8 @@
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=tokyonight)  
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prakhar-1310&theme=default&no-frame=true&no-bg=false&margin-w=4)
 ---
 
 ## 📈 Contribution Graph
@@ -204,6 +205,8 @@
 - 📘 [DSA Practice](https://github.com/yourusername/DSA) – 800+ solved problems  
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 📬 Let’s Connect
 💡 Always open for collaboration and interesting project ideas!
