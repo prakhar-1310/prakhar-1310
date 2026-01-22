@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Prakhar Shahi</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Open Source Contributor | 📈 DSA Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Prakhar Shahi
+
+### 💻 Full-Stack Developer • 🧠 Competitive Programmer • 🚀 Problem Solver • 📈 DSA Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Knight+%40+LeetCode+(1750++Rating);Specialist+%40+Codeforces+(1500++Rating);1000%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
+
+</div>
 
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **800+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
+- ✅ Solved **1000+ DSA Problems** on [LeetCode](https://leetcode.com/u/prakhar-1310/)
 - 🥇 Completed **ML Course @ Coding Blocks** (Mentors: Shubhum Shingal)
-- 🎯 Selected in **Super 150 Batch**
 - 🛠️ Built projects in **MERN stack, Java, Python**
 - 🌱 Actively contributing to **open-source and hackathons**
-
 ---
 
 ## 🧰 Tech Stack
@@ -155,16 +160,10 @@
 
 ## 🚀 My Dev Playground
 
-<table align="center" width="100%" style="max-width: 900px; margin: auto;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=prakhar-1310&theme=github-dark&border=border&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
-    </td>
-    <td width="60%" align="center">
-      <img src="https://leetcode.card.workers.dev/?username=prakhar-1310&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### LeetCode Performance
+<img src="https://leetcard.jacoblin.cool/prakhar-1310?theme=dark&font=Ubuntu&ext=contest" width="60%" />
 
 ---
 
@@ -183,18 +182,19 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=tokyonight)  
+## 📈 GITHUB ANALYTICS
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakhar-1310&theme=default&no-frame=true&no-bg=false&margin-w=4)
----
+<div align="center">
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar-1310&theme=react-dark" alt="activity graph" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-1310&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar-1310&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhar-1310&theme=algolia&utcOffset=5.5" width="49%" />
+
+</div>
+
 
 ---
 
