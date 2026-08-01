@@ -7,6 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Knight+%40+LeetCode+(1900++Rating);Specialist+%40+Codeforces+(1550++Rating);1000%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+</div>
 
 ---
 
@@ -17,77 +25,66 @@
 - 🌱 Actively contributing to **open-source and hackathons**
 ---
 
-## 🧰 Tech Stack
-<!-- 🧰 TECH STACK TABLE | Equal Icons Per Row | GitHub-Safe -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<table align="center" width="100%" style="max-width: 950px; text-align: center;">
+<div align="center">
 
-  <!-- 🌐 Web Development -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
-  </tr>
+<h1>
+  <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkzODg2ODgsIm5iZiI6MTc1OTM4ODM4OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDAyVDA2NTk0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNjBkMDRmZjdhOGYxMmY0NTNhOGI0ZTUyZDUzNTM3ZjAxZDc2OTlmNjlmMGNlMGFhNGIwMzhkMzliODgzOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.694OhWjUC7SyuHOktBnP1VSI1pdyU4N46IIBdtMO2OM" alt="Tools" width="40" height="40" />
+  Technologies I've Worked With
+</h1>
 
-  <!-- 📱 Software Development -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Software Development</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" height="50" title="Android Studio" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flutter-Light.svg" height="50" title="Flutter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
-  </tr>
+</div>
 
-  <!-- 🧠 Data Science & Gen AI -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg" height="50" title="PyTorch" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
-  </tr>
+<div align="center">
 
-  <!-- ⚙️ Backend & Frameworks -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Frameworks</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" height="50" title="Django" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" title="FastAPI" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" title="Bash" /></td>
-  </tr>
+### 💻 Languages & Core Technologies
 
-  <!-- 🗄️ Databases & Tools -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Tools</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="50" title="SQLite" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
-  </tr>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</table>
+### ⚛️ Frontend Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### 🔧 Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎯 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 
 ---
@@ -184,12 +181,21 @@
 
 ## 📈 GITHUB ANALYTICS
 
+
+
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-1310&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar-1310&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhar-1310&theme=algolia&utcOffset=5.5" width="49%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
 
 </div>
 
