@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Prakhar Shahi
 
-### SDE Intern @ Analytics Vidhya • 🧠 Competitive Programmer • 🚀 Problem Solver • 📈 DSA Enthusiast
+### • 💻 SDE Intern @ Analytics Vidhya  • 🧠 Competitive Programmer  • 🚀 Problem Solver  • 📈 DSA Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Knight+%40+LeetCode+(1900++Rating);Specialist+%40+Codeforces+(1550++Rating);1000%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
@@ -190,7 +190,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-1310&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=prakhar-1310&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats" alt="GitHub Streak" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api?username=prakhar-1310&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar-1310&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1310&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
