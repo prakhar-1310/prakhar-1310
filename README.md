@@ -155,9 +155,9 @@
 <div align="center">
 
 <p align="center">
+  <a href="https://leetcode.com/prakhar-1310/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
   <a href="https://leetcode.com/prakhar-1310/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
   <a href="https://leetcode.com/prakhar-1310/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2026_200.gif" alt="LeetCode Badge 1" height="200" width="200" /></a>
-  <a href="https://leetcode.com/prakhar-1310/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode Badge 2" height="200" width="200" /></a>
   <a href="https://leetcode.com/prakhar-1310/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="LeetCode Badge 4" height="200" width="200" /></a>
  </p>
 
