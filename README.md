@@ -200,16 +200,6 @@
 
 
 </div>
-
-
----
-
-## 🌟 Featured Projects
-- 🚀 [Tic Tac Toe (Neon Themed)](https://github.com/yourusername/TicTacToe) – Futuristic design with animations  
-- 📝 [Blogging App (MERN)](https://github.com/yourusername/BlogApp) – Create, edit & share blogs  
-- 🤖 [ML Projects](https://github.com/yourusername/ML-Projects) – Machine Learning experiments and notebooks  
-- 📘 [DSA Practice](https://github.com/yourusername/DSA) – 800+ solved problems  
-
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
