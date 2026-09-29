@@ -8,7 +8,7 @@
 
 ### • 💻 SDE Intern @ Fractal  • 🧠 Competitive Programmer  • 🚀 Problem Solver  • 📈 DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Knight+%40+LeetCode+(1900++Rating);Specialist+%40+Codeforces+(1550++Rating);1500%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Knight+%40+LeetCode;Specialist+%40+Codeforces;1500%2B+DSA+Problems+Solved;MERN+%7C+SpringBoot+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
 </div>
 <div align="center">
